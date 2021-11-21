@@ -1,4 +1,4 @@
-### !Hello I'm RealMrCactus! heres some info about me
+# !Hello I'm RealMrCactus! heres some info about me
 ---
 
 **I constantly want to make stuff start on it then quit because i say nvm**
@@ -6,7 +6,7 @@
 **I hate brazil don't ask why**
 
 
-### v Programming languages i know v
+# v Programming languages i know v
 ---
 
 **Roblox Lua**
@@ -14,7 +14,7 @@
 **HTML5**
 **CSS3**
 
-### v Programming languages i want to learn
+# v Programming languages i want to learn
 ---
 
 **C++**
