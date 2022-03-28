@@ -13,6 +13,7 @@
 **JavaScript**
 **HTML5**
 **CSS3**
+**SCSS**
 
 # v Programming languages i want to learn
 ---
