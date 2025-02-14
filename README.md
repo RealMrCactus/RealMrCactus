@@ -1,5 +1,17 @@
-# Hello I'm RealMrCactus heres some info about me
+# 👋 Hello, I'm RealMrCactus!
 
-- I know several languages such as Rust (my favorite), LuaU, some C++, some C, Some bash, Some JS, Some Python.
-- Currently Interested in Cyber Security and AI/ML.
-- Plan to major in Comp Sci and Cyber.
+### **🛠️ Tech Stack**  
+`Rust` (Absolute Favorite!) | `LuaU` | `C++`/`C` | `Bash` | `JavaScript` | `Python`  
+*Constantly sharpening my low-level programming skills*
+
+### **🔭 Current Interests**  
+🔥 **Cyber Security** (Ethical Hacking | Network Defense)  
+🤖 **AI/ML** (Machine Learning Applications | Neural Networks)
+
+### **🎓 Academic Pursuits**  
+Planning to dual major in:  
+📚 **Computer Science** & **Cyber Security**  
+Considering:  
+1. 🏫 Michigan Tech (Houghton, MI)  
+2. 🌲 Northwood University (Midland, MI)  
+3. 🐅 University of Cincinnati (Cincinnati, OH)
