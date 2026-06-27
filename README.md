@@ -9,9 +9,4 @@
 🤖 **AI/ML** (Machine Learning Applications | Neural Networks)
 
 ### **🎓 Academic Pursuits**  
-Planning to dual major in:  
-📚 **Computer Science** & **Cyber Security**  
-Considering:  
-1. 🏫 Michigan Tech (Houghton, MI)  
-2. 🌲 Northwood University (Midland, MI)  
-3. 🐅 University of Cincinnati (Cincinnati, OH)
+University of Cincinnati - Pursuing Assoc in IT, Bach in Cyber
